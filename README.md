@@ -1,6 +1,6 @@
 # 🧠 HR Attrition & Employee Retention Analysis
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.PNG)
 
 ## 🛠️ Tech Stack
 
